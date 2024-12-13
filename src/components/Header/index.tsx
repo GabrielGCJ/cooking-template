@@ -1,8 +1,10 @@
+import { GlobalHeaderContainer } from "./styles"
+
 export const Header = () => {
 
     return (
-      <>
-        <h1>Esse é o Header</h1>
-      </>
+      <GlobalHeaderContainer>
+        
+      </GlobalHeaderContainer>
     )
   }
